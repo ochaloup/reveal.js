@@ -3,15 +3,15 @@
  */
 @font-face {
   font-family: 'liberation_regular';
-  src: url("../../lib/font/LiberationSans-Regular-webfont.eot");
-  src: url("../../lib/font/LiberationSans-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/LiberationSans-Regular-webfont.woff") format("woff"), url("../../lib/font/LiberationSans-Regular-webfont.ttf") format("truetype"), url("../../lib/font/LiberationSans-Regular-webfont.svg#liberation_sansregular") format("svg");
+  src: url("../../lib/font/liberation-sans/LiberationSans-Regular-webfont.eot");
+  src: url("../../lib/font/liberation-sans/LiberationSans-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/liberation-sans/LiberationSans-Regular-webfont.woff") format("woff"), url("../../lib/font/liberation-sans/LiberationSans-Regular-webfont.ttf") format("truetype"), url("../../lib/font/liberation-sans/LiberationSans-Regular-webfont.svg#liberation_sansregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'liberation_bold';
-  src: url("../../lib/font/LiberationSans-Bold-webfont.eot");
-  src: url("../../lib/font/LiberationSans-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/LiberationSans-Bold-webfont.woff") format("woff"), url("../../lib/font/LiberationSans-Bold-webfont.ttf") format("truetype"), url("../../lib/font/LiberationSans-Bold-webfont.svg#liberation_sansbold") format("svg");
+  src: url("../../lib/font/liberation-sans/LiberationSans-Bold-webfont.eot");
+  src: url("../../lib/font/liberation-sans/LiberationSans-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/liberation-sans/LiberationSans-Bold-webfont.woff") format("woff"), url("../../lib/font/liberation-sans/LiberationSans-Bold-webfont.ttf") format("truetype"), url("../../lib/font/liberation-sans/LiberationSans-Bold-webfont.svg#liberation_sansbold") format("svg");
   font-weight: normal;
   font-style: normal; }
 
