@@ -196,7 +196,8 @@ body {
 .reveal table td[align="right"] {
   text-align: right; }
 
-.reveal table tr:last-child td {
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td {
   border-bottom: none; }
 
 .reveal sup {
@@ -315,3 +316,10 @@ body::before {
   background-size: 8.5em 2.4em;
   width: 8.5em;
   height: 2.4em; }
+
+.reveal .image.noborder img {
+  border: 0;
+  background: none;
+  box-shadow: none;
+  margin: 0;
+  padding: 0; }
