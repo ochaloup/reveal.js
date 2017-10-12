@@ -85,3 +85,14 @@ body::before {
    margin: 0;
    padding: 0;
 }
+
+// class stretch to even for code blocks
+.reveal .stretch pre {
+   width: auto;
+}
+
+.reveal .stretch code {
+   max-width: none;
+   max-height: none;
+}
+
