@@ -47,8 +47,8 @@ $headingTextShadow: none;
 $headingLetterSpacing: -0.03em;
 $headingTextTransform: none;
 
-$linkColor: #bfdce8;
-$linkColorHover: darken( $linkColor, 20% );
+$linkColor: #001b27;
+$linkColorHover: lighten( $linkColor, 20% );
 
 $selectionBackgroundColor: #f7f3dc;
 
